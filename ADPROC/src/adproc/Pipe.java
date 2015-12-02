@@ -1,3 +1,5 @@
+package adproc;
+
 
 public abstract class Pipe {
     private int PipePlasticGrade, Pipecolour;
